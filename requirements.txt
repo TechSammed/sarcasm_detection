@@ -1,0 +1,12 @@
+# Core ML / NLP
+torch>=2.0.0
+transformers>=4.40.0
+scikit-learn>=1.3.0
+pandas>=2.0.0
+
+# Voice input
+SpeechRecognition>=3.10.0
+pyaudio>=0.2.13
+
+# Utilities (optional but useful)
+numpy>=1.24.0

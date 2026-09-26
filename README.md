@@ -38,7 +38,7 @@ This is a Python-based command-line application that detects whether a given sta
    The `sarcasm_model` folder contains large model weights (e.g., `model.safetensors` which is ~438MB) and is **not** included in this repository due to GitHub size limits. 
    
    *You must download the model and place it in the root directory.*
-   - **Download Link:** [Insert your Google Drive or Hugging Face link here]
+   - **Download Link:**  https://drive.google.com/drive/folders/1oWvgXjg1k34SpNfoGc06L-_6n8VWLGda?usp=drive_link
    
    Make sure your folder structure looks exactly like this after downloading:
    ```text

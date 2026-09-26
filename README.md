@@ -1,4 +1,4 @@
-# Sarcasm Detection App
+# Sarcasm Detection Application
 
 This is a Python-based command-line application that detects whether a given statement is sarcastic or not. It supports both text and voice input. The application is powered by a fine-tuned sequence classification model using the Hugging Face Transformers library.
 

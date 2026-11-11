@@ -25,3 +25,7 @@ sarcasm_model/
 # Logs
 /logs/
 /runs/
+
+
+# frontend 
+node_modules/
